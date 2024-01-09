@@ -197,6 +197,16 @@ section {
 }
 
 
+.image24{
+    margin: 0;
+    padding-left: 0;
+}
+
+.promotion-section .promotion-img{
+    transform: translateY(-50px);
+  }
+
+
 /*  Section 4 */
 
 
@@ -241,6 +251,9 @@ section {
 .place-section .place-btn:hover {
     background-color: #070211;
 }
+
+
+  
 
 
 /* Section 5 */
